@@ -1,6 +1,6 @@
 # 1 - Spotify Artist Tracks Lister
 
-This script lists all tracks from a specific artist's albums and singles using the Spotify API with proper syntax.
+This script lists all tracks from a specific artist's albums and singles using the Spotify Web API with proper syntax.
 
 ## How to Use
 
