@@ -13,6 +13,7 @@ This script lists all tracks from a specific artist's albums and singles using t
    - Dashboard > Your App Name > Basic Information
 7. Get your Client ID and Client Secret
 8. Put your Client ID and Client Secret in the code
+9. Run the code and put Artist URL
 
 ## Requirements
 
