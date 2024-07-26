@@ -1,4 +1,4 @@
-# 1 - Spotify Artist Tracks Lister
+# 1 - Spotify Discography Fetcher
 
 This script lists all tracks from a specific artist's albums and singles using the Spotify Web API with proper syntax.
 
