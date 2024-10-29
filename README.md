@@ -1,6 +1,6 @@
 # 1 - Spotify Discography Fetcher
 
-This script lists all tracks from a specific artist's albums and singles using the Spotify Web API with proper syntax.
+This script lists all tracks from a specific artist's albums and singles using the Spotify Web API with PROPER syntax. Quick way to list any artist's Discography.
 
 ## How to Use
 
